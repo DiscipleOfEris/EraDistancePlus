@@ -1,3 +1,4 @@
+# Development for this addon has been moved to https://github.com/DiscipleOfEris/Windower4Addons
 
 Accurate distance for Era/DSP. Enhances the functionality of the Distance AddOn.  
 
